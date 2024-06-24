@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lmarti-photographer-docker/static/css/main.657da3be.css",
+    "main.js": "/lmarti-photographer-docker/static/js/main.4af12f9e.js",
+    "static/js/787.860f84f5.chunk.js": "/lmarti-photographer-docker/static/js/787.860f84f5.chunk.js",
+    "static/media/Boheme Floral.ttf": "/lmarti-photographer-docker/static/media/Boheme Floral.0345ab604f426031d363.ttf",
+    "static/media/Cinzel-Regular.otf": "/lmarti-photographer-docker/static/media/Cinzel-Regular.f91baf6fe825a2549798.otf",
+    "static/media/britain-logo.webp": "/lmarti-photographer-docker/static/media/britain-logo.fcb245e4236a9c1de19e.webp",
+    "static/media/photo-moi.webp": "/lmarti-photographer-docker/static/media/photo-moi.91ef79723d60e8dfc21a.webp",
+    "index.html": "/lmarti-photographer-docker/index.html",
+    "main.657da3be.css.map": "/lmarti-photographer-docker/static/css/main.657da3be.css.map",
+    "main.4af12f9e.js.map": "/lmarti-photographer-docker/static/js/main.4af12f9e.js.map",
+    "787.860f84f5.chunk.js.map": "/lmarti-photographer-docker/static/js/787.860f84f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657da3be.css",
+    "static/js/main.4af12f9e.js"
+  ]
+}
